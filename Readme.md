@@ -24,36 +24,22 @@ A lightweight, browser Startpage designed for developers. It runs entirely from 
 
 ### 🚀 Release version 2 (Latest Version)
 *   **Added:** Added Cloud image wallpapers with 6 catergories - (Nature/City/Ocean/Space/Abstract/Mountain) and updated UI .
-*   🔗 **[Download DevStart v2.0.0 (HTML)](https://github.com/Naveengnkcoding/Browser-StartPage/download/v1.1.0/StartPage.html)**
+*   🔗 **[Download DevStart v2.0.0 (HTML)](https://github.com/Naveengnkcoding/Browser-StartPage/blob/main/download/v1.1.0/StartPage.html)**
 
-<a href="https://github.com/Naveengnkcoding/Browser-StartPage/download/v1.1.0/StartPage.html" download>
+<a href="https://github.com/Naveengnkcoding/Browser-StartPage/blob/main/download/v1.1.0/StartPage.html" download>
   ⬇️
 </a>
 
 ### 🌟 Version 2 (Latest)
 
-<p align="center">
-           <a href=""><img src="./image/v2.png" alt="Overview" width="60%" height="60%"></a>
-           <br>
-</p>
-
 ![DevStart v2 Preview](./image/v2.png)
 
 ### 📁 Release version 1 (Initial Release)
 *   **Features:** Multi serch engine () | Quick bookmarks, JSON backup, and multi-slot clipboard | html-csswallpaper-darktheme.
-*   🔗 **[Download DevStart v1.0.0 (HTML)](https://github.com/Naveengnkcoding/Browser-StartPage/download/v1.0.0/startpage.html)**
+*   🔗 **[Download DevStart v1.0.0 (HTML)](https://github.com/Naveengnkcoding/Browser-StartPage/blob/main/download/v1.0.0/startpage.html)**
 
-<a href="https://github.com/Naveengnkcoding/Browser-StartPage/download/v1.0.0/startpage.html" download>
-  ⬇️
-</a>
 
 ### 📁 Version 1
-
-<p align="center">
-           <a href=""><img src="./image/v1.png" alt="Overview" width="60%" height="60%"></a>
-           <br>
-</p>
-
 
 ![DevStart v1 Preview](./image/v1.png)
 

@@ -22,7 +22,21 @@ A lightweight, browser Startpage designed for developers. It runs entirely from 
 
 ## 📦 Releases & Downloads
 
-### 🚀 Release version 2 (Latest Version)
+### 🚀 Release version 3 (Latest Version)
+
+*   **Added:** Added Jarvis with Voice - Project Management and Multi Section bookmark and updated UI .
+*   🔗 **[Download DevStart v2.0.0 (HTML)](https://github.com/Naveengnkcoding/Browser-StartPage/blob/main/download/startpage_v3.html)**
+
+<a href="https://github.com/Naveengnkcoding/Browser-StartPage/blob/main/download/startpage_v3.html" download>
+  ⬇️
+</a>
+
+### 🌟 Version 3 (Latest)
+
+![DevStart v1 Preview](./image/v3.png)
+
+
+### 🚀 Release version 2 
 *   **Added:** Added Cloud image wallpapers with 6 catergories - (Nature/City/Ocean/Space/Abstract/Mountain) and updated UI .
 *   🔗 **[Download DevStart v2.0.0 (HTML)](https://github.com/Naveengnkcoding/Browser-StartPage/blob/main/download/v1.1.0/StartPage.html)**
 
@@ -30,7 +44,7 @@ A lightweight, browser Startpage designed for developers. It runs entirely from 
   ⬇️
 </a>
 
-### 🌟 Version 2 (Latest)
+### 🌟 Version 2
 
 ![DevStart v2 Preview](./image/v2.png)
 
